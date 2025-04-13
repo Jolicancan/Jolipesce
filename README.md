@@ -1,4 +1,4 @@
-# 🐟 Fisch Super Script - The Ultimate Roblox Script Hub
+# Fisch Super Script - The Ultimate Roblox Script Hub
 
 **Meta Description:**  
 Fisch Super Script is an all-in-one Roblox script hub packed with automation tools, powerful hacks, and a sleek UI—enhancing your experience in multiple top Roblox games.
